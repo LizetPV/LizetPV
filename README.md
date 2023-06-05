@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Hello 👋🏾 👩🏾‍💻
+
 
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
