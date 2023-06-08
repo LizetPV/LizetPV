@@ -5,13 +5,11 @@ Hi, I'm Yesenia! I am a frontend developer with a passion for creating attractiv
 ![age](https://img.shields.io/badge/age-30-blue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-Perú-3c9)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=linkedin.com/in/ypeche-proyectos)](linkedin.com/in/ypeche-proyectos)
 
 Find me around the web 🌎:
 <br/>
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: YeseniaPeche](https://img.shields.io/badge/-YeseniaPeche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ypeche-proyectos)](https://www.linkedin.com/in/ypeche-proyectos)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub YeseniaPeche](https://img.shields.io/github/followers/YeseniaPeche?label=follow&style=social)](https://github.com/LizetPV/LizetPV)
 
 **Languages and Tools:**
 
