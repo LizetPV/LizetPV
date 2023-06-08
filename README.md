@@ -10,6 +10,8 @@ Find me around the web 🌎:
 <br/>
 [![Linkedin: YeseniaPeche](https://img.shields.io/badge/-YeseniaPeche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ypeche-proyectos)](https://www.linkedin.com/in/ypeche-proyectos)
 [![GitHub YeseniaPeche](https://img.shields.io/github/followers/YeseniaPeche?label=follow&style=social)](https://github.com/LizetPV/LizetPV)
+<a href="mailto:lizet.peche@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lizet.peche@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 **Languages and Tools:**
 
