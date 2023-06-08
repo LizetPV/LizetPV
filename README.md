@@ -1,6 +1,3 @@
-<div style="text-align:center">
-  <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png" alt="Marco superior">
-</div>
 
 ### Hi there 👋
 
@@ -47,7 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align:center">
-  <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png" alt="Marco inferior">
-</div>
+
 
