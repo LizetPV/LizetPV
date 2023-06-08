@@ -10,7 +10,7 @@ Hi, I'm Yesenia! I am a frontend developer with a passion for creating attractiv
 Find me around the web 🌎:
 <br/>
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ypeche-proyectos)](linkedin.com/in/ypeche-proyectos)
+[![Linkedin: YeseniaPeche](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ypeche-proyectos)](linkedin.com/in/ypeche-proyectos)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 **Languages and Tools:**
