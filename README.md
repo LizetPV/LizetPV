@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi, I'm Yesenia! I am a frontend developer with a passion for creating attractive and functional user interfaces. I use languages like HTML, CSS, and JavaScript to bring designs to life and enhance the user experience. My main goal is to create websites that are intuitive and visually pleasing. 
+Hi, I'm Yesenia! I am a frontend developer y backend with a passion for creating attractive and functional user interfaces. I use languages like HTML, CSS, and JavaScript to bring designs to life and enhance the user experience. My main goal is to create websites that are intuitive and visually pleasing. 
 
 ![age](https://img.shields.io/badge/age-30-blue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
