@@ -1,40 +1,41 @@
-
 ### Hi there 👋
 
-Hi, I'm Yesenia! I am a Full Stack Developer focused on backend and process automation. Skilled in Python, Django, SQL Server, and REST API development. Experience with Java 17, microservices, Swagger, JUnit5, and C4 architecture, as well as modernizing legacy systems and contributing to a corporate Data Warehouse design.
+Hi, I'm Yesenia!  
+I am a **Full Stack Developer** specialized in **backend development and process automation**.  
+Skilled in **Python, Django, SQL Server, REST APIs**, and experienced with **Java 17, microservices, Swagger, JUnit5, and C4 architecture**.  
+Currently working on **legacy systems modernization** and contributing to a **corporate Data Warehouse design**, integrating data with **PyODBC, Linux (PuTTY), and Git/Bitbucket**.
 
-🚀 Passionate about backend, APIs, and data architecture, with a proactive, self-taught, and results-driven mindset. Looking to contribute scalable solutions and grow within impactful tech teams.
+🚀 Passionate about **backend, APIs, and data architecture**.  
+Proactive, self-taught, and results-driven — always aiming to deliver **scalable and impactful solutions**.  
 
-![age](https://img.shields.io/badge/age-30-blue)
-![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
-![living](https://img.shields.io/badge/living-Perú-3c9)
+![age](https://img.shields.io/badge/age-30-blue)  
+![focus](https://img.shields.io/badge/Backend%20&%20Automation-brightgreen)  
+![living](https://img.shields.io/badge/living-Perú-3c9)  
 
+---
 
-Find me around the web 🌎:
-<br/>
-[![Linkedin: YeseniaPeche](https://img.shields.io/badge/-YeseniaPeche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ypeche-proyectos)](https://www.linkedin.com/in/ypeche-proyectos)
-[![GitHub YeseniaPeche](https://img.shields.io/github/followers/YeseniaPeche?label=follow&style=social)](https://github.com/LizetPV/LizetPV)
-<a href="mailto:lizet.peche@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lizet.peche@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+Find me around the web 🌎:  
+[![Linkedin: YeseniaPeche](https://img.shields.io/badge/-YeseniaPeche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ypeche-proyectos)](https://www.linkedin.com/in/ypeche-proyectos)  
+[![GitHub YeseniaPeche](https://img.shields.io/github/followers/YeseniaPeche?label=follow&style=social)](https://github.com/LizetPV/LizetPV)  
+<a href="mailto:lizet.peche@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lizet.peche@gmail.com-blue?style=flat&logo=gmail"></a>  
 
-**Languages and Tools:**
+---
+
+**Languages and Tools:**  
 
 <p align="center">
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+</p>
 
-  <div align="center">
-    
- <code><img height="40"                                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-  </div>
-  </p>
-
-⭐️ From [Yesenia](linkedin.com/in/ypeche-proyectos)
-<!--
-**LizetPV/LizetPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+⭐️ From [Yesenia](https://www.linkedin.com/in/ypeche-proyectos)
 
 
