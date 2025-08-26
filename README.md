@@ -1,7 +1,9 @@
 
 ### Hi there 👋
 
-Hi, I'm Yesenia! I am a frontend developer y backend with a passion for creating attractive and functional user interfaces. I use languages like HTML, CSS, and JavaScript to bring designs to life and enhance the user experience. My main goal is to create websites that are intuitive and visually pleasing. 
+Hi, I'm Yesenia! I am a Full Stack Developer focused on backend and process automation. Skilled in Python, Django, SQL Server, and REST API development. Experience with Java 17, microservices, Swagger, JUnit5, and C4 architecture, as well as modernizing legacy systems and contributing to a corporate Data Warehouse design.
+
+🚀 Passionate about backend, APIs, and data architecture, with a proactive, self-taught, and results-driven mindset. Looking to contribute scalable solutions and grow within impactful tech teams.
 
 ![age](https://img.shields.io/badge/age-30-blue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
